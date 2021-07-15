@@ -6,7 +6,7 @@ export default {
   args: {
     children: (
       <div>
-        <h1>SectionContainer</h1>
+        <h1>teste SectionContainer</h1>
         <p> Eu quero viver não quero morrer </p>
       </div>
     ),
