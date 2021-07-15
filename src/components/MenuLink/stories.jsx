@@ -4,7 +4,7 @@ export default {
   title: 'MenuLink',
   component: MenuLink,
   args: {
-    children: 'Menu',
+    children: 'MenuLink',
     link: '#target0',
   },
   argTypes: {
