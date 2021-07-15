@@ -5,10 +5,7 @@ export default {
   component: TextComponent,
   args: {
     children: `
-    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    Ullam placeat unde harum. Facilis, quasi delectus
-    obcaecati perferendis nobis alias ad aspernatur quod neque,
-    corporis, aperiam numquam. Sint consequatur omnis voluptate.`,
+    Teste do TextComponent`,
   },
   argTypes: {
     children: { type: 'string' },
