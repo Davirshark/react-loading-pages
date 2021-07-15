@@ -5,7 +5,7 @@ export default {
   component: MenuLink,
   args: {
     children: 'Menu',
-    link: 'https://na.leagueoflegends.com/pt-br/',
+    link: '#target0',
   },
   argTypes: {
     children: { type: 'string' },
