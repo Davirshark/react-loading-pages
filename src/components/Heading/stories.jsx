@@ -4,7 +4,7 @@ export default {
   title: 'Heading',
   component: Heading,
   args: {
-    children: 'Modo light',
+    children: 'Modoo light',
   },
   argTypes: {
     children: { type: 'string' },
